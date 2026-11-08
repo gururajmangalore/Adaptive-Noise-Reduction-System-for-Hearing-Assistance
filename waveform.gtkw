@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer Save File - Adaptive Noise Reduction Analog View
+[*]
+[dumpfile] "waveform.vcd"
+[savefile] "waveform.gtkw"
+[timestart] 0
+[size] 1400 850
+[pos] -1 -1
+*-15.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_adaptive_noise_reduction.
+@28
+tb_adaptive_noise_reduction.clk
+tb_adaptive_noise_reduction.rst_n
+@200
+-
+-AUDIO SIGNALS (ANALOG CONVERGENCE VIEW)
+-
+@88424
+>80
+tb_adaptive_noise_reduction.speech_clean[15:0]
+@88424
+>80
+tb_adaptive_noise_reduction.noisy_in[15:0]
+@88424
+>80
+tb_adaptive_noise_reduction.clean_out[15:0]
+@88424
+>80
+tb_adaptive_noise_reduction.residual_error[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
