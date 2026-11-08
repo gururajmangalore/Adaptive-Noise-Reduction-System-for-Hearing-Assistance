@@ -1,0 +1,4 @@
+waveform.vcd
+adaptive_noise_sim.vvp
+*.vvp
+*.vcd
